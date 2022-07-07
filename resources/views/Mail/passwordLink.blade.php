@@ -1,0 +1,1 @@
+Change your Password <a href="http://localhost:8080/apiResetPassword/{{$token}}">here</a>
